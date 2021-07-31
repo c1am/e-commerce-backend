@@ -1,4 +1,4 @@
-# E-Commerce Backend (Object-Relational Mapping)
+# E-Commerce Backend
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
