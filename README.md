@@ -1,4 +1,4 @@
-# E-Commerce Backend (Object-Relational Mapping)
+# E-Commerce Backend
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
@@ -22,9 +22,7 @@ In the terminal, run `mysql -u root -p < db/schema.sql`. Then enter your MySQL p
 
 
 ## Deployment/Demo
-MySQL walkthrough: [Screencastify]()<br>
-API routes walkthrough: [Screencastify]())<br>
-Insomnia Core walkthrough: [Screencastify]()
+Walkthrough Video: [Video]()
 
 
 ## Built With
