@@ -22,7 +22,7 @@ In the terminal, run `mysql -u root -p < db/schema.sql`. Then enter your MySQL p
 
 
 ## Deployment/Demo
-Walkthrough Video: [Video]()
+Walkthrough Video: [E-Commerce Backend Walkthrough](https://drive.google.com/file/d/1WCvW3-QOPrRgrdWYA3ba2RbawifWy-aJ/view?usp=sharing)
 
 
 ## Built With
